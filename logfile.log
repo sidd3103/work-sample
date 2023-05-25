@@ -1,0 +1,16 @@
+INFO:root:*******Starting preprocessing/feature engineering script*******
+INFO:root:Downloading dataset
+INFO:root:Extracting ETF data, and engineering new features
+INFO:root:Extracting Stock data, and engineering new features
+ERROR:root:No mapping for AGM-A
+ERROR:root:No mapping for UTX#
+ERROR:root:No mapping for CARR#
+INFO:root:*******Ending preprocessing/feature engineering script*******
+INFO:root:*******Starting ML script*******
+INFO:root:Reading data from disk
+INFO:root:Training model
+INFO:root:Mean absolute error = 1408794.2270634382
+INFO:root:Mean squared error = 55639071189569.625
+INFO:root:R2 score = 0.6025109001673394
+INFO:root:Saving model to disk
+INFO:root:*******Ending ML script*******
